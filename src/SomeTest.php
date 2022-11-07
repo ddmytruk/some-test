@@ -8,6 +8,6 @@ class SomeTest
 {
     public function do(): string
     {
-        return 'Some Test in PHP 7.2';
+        return 'Some Test in PHP 7.3+';
     }
 }
